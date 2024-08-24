@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Matthew Petela
-- 👀 I’m interested in gardening, gaming, & SBCs. 
 - 🌱 I’m currently working with .NET, C#, TypeScript, & Python.
 
 <!---
